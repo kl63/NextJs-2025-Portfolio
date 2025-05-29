@@ -7,7 +7,7 @@ export default function Home() {
       {/* Hero Section */}
       <section className="flex flex-col-reverse md:flex-row items-center justify-between gap-8 md:gap-12 mb-24">
         <div className="w-full md:w-1/2">
-          <h1 className="text-4xl sm:text-5xl font-bold mb-6">Hi, I'm <span className="text-blue-600 dark:text-blue-400">John Doe</span></h1>
+          <h1 className="text-4xl sm:text-5xl font-bold mb-6">Hi, I'm <span className="text-blue-600 dark:text-blue-400">Kevin</span></h1>
           <h2 className="text-2xl sm:text-3xl font-semibold mb-4 text-gray-700 dark:text-gray-300">Full-Stack Developer</h2>
           <p className="text-lg mb-8 text-gray-600 dark:text-gray-400">
             I build exceptional and accessible digital experiences for the web. Focused on creating clean, user-friendly interfaces with modern technologies.
